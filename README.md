@@ -8,5 +8,9 @@ This code is designed to work with this lcd shield
 http://osepp.com/products/shield-arduino-compatible/16x2-lcd-display-keypad-shield/
 though it can be modified to work with others. 
 
+After creating your Blynk account at http://blynk.cc you can download the app to your phone
+Once you have enabled the app and signed in, you can scan the QR code to clone the project
+
+
 
 
